@@ -1,4 +1,4 @@
-Disease,Type of disease,Type of cure,Cure,Price,Symptoms,Cure Description
+Disease,Type of disease,Type of medication,Medication,Price,Symptoms,Medication description
 Dengue,communicable disease,Vaccine,Dengvaxia,4000THB,high fever/severe headache/pain behind the eyes/muscle and joint pains/swollen glands/rash,Applied by medical professionals
 Leptospirosis,communicable disease,Medicine,Doxycycline,398THB,High fever/Headache/Chills/Muscle aches/Vomiting/Jaundice (yellow skin and eyes)/Red eyes/Abdominal pain/Diarrhea/Rash,Doxycycline comes as a capsule tablet delayed-release tablet and suspension (liquid) to take by mouth. Doxycycline is usually taken once or twice a day. Drink a full glass of water with each dose.Talk with your doctor or pharmacist about the best way to take doxycycline.
 Hepatitis A,communicable disease,Vaccine,Hepatitis A vaccine(Mevac-A),1400THB,Fever/Malaise/loss of appetite/Diarrhea/Nausea/abdominal discomfort/dark-coloured urine/jaundice(a yellowing of the eyes and skin),Applied by medical professionals
